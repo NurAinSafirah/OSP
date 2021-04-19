@@ -24,7 +24,7 @@
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a class="nav-link" href="index.php">HOMEPAGE</a>
+				<a class="nav-link" href="index.html">HOMEPAGE</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="WaterPollution.php">WATER POLLUTION</a>
