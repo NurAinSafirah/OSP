@@ -39,7 +39,7 @@
 		    <div class="collapse navbar-collapse" id="collapsibleNavbar">
 				<ul class="navbar-nav">
 					<li class="nav-item">
-						<a class="nav-link" href="index.php"  style = "color: #FFFFFF"> Home</a>
+						<a class="nav-link" href="index.html"  style = "color: #FFFFFF"> Home</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="LandPollutionHome.php" style = "color: #FFFFFF"> Land </a>
